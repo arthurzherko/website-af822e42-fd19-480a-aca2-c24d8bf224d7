@@ -59,6 +59,9 @@
     "sonner": "^1.7.1",
     "tailwind-merge": "^2.6.0",
     "tailwindcss-animate": "^1.0.7",
+    "three": "^0.162.0",
+    "@react-three/fiber": "^8.15.19",
+    "@react-three/drei": "^9.102.6",
     "vaul": "^1.1.2",
     "zod": "^3.24.1"
   },
